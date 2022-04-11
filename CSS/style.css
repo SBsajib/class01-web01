@@ -1,0 +1,42 @@
+
+
+div{
+    width: 600px;
+    margin: auto;
+    background-color: #cbcbd7;
+    text-align: center;
+    padding: 50px;}
+
+
+
+a{margin: auto;
+    padding: 4px 8px;
+    padding: 4;
+    text-decoration: none;
+    background-color: white;
+display: inline-block;
+margin-bottom: 10px;}
+
+
+
+h1{color: #14ca72;
+	font-size: 50px;
+	 margin: 0;
+	 text-transform: capitalize;}
+
+
+span{text-transform: uppercase;
+	text-decoration: underline;
+}
+
+img{
+	width: 300px;
+	display: block;
+	margin: auto;
+	border-radius: 50%;
+	object-fit: cover;
+	height: 300px;
+}
+mark{color: white;
+	background-color: #14ca72;
+	}
